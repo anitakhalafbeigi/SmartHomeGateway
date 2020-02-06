@@ -13,6 +13,3 @@ import thingsboard_dashboard/light.json to thingsboard dashboard to control your
 
 
 
-
-
-# SmartHomeGateway
